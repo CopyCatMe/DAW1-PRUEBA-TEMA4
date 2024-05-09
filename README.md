@@ -9,3 +9,7 @@
 ## EJERCICIO 2
 ![Imagen 1](screenshots/3.png)
 ![Imagen 2](screenshots/4.png)
+
+## EJERCICIO 3
+![Imagen 1](screenshots/5.png)
+![Imagen 2](screenshots/6.png)
